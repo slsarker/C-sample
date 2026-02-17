@@ -1,0 +1,24 @@
+C:\Users\sagor\OneDrive - American International University-Bangladesh\Desktop\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\sagor\OneDrive - American International University-Bangladesh\Desktop\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\sagor\OneDrive - American International University-Bangladesh\Desktop\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\sagor\OneDrive - American International University-Bangladesh\Desktop\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\sagor\OneDrive - American International University-Bangladesh\Desktop\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+C:\Users\sagor\OneDrive - American International University-Bangladesh\Desktop\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\sagor\OneDrive - American International University-Bangladesh\Desktop\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\sagor\OneDrive - American International University-Bangladesh\Desktop\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sagor\OneDrive - American International University-Bangladesh\Desktop\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\sagor\OneDrive - American International University-Bangladesh\Desktop\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\sagor\OneDrive - American International University-Bangladesh\Desktop\SimpleCalculator\SimpleCalculator\bin\Debug\Guna.UI2.dll
+C:\Users\sagor\OneDrive - American International University-Bangladesh\Desktop\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CopyComplete
+D:\AIUB\FALL-2025-26\C# Project(Final)\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+D:\AIUB\FALL-2025-26\C# Project(Final)\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+D:\AIUB\FALL-2025-26\C# Project(Final)\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+D:\AIUB\FALL-2025-26\C# Project(Final)\SimpleCalculator\SimpleCalculator\bin\Debug\Guna.UI2.dll
+D:\AIUB\FALL-2025-26\C# Project(Final)\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+D:\AIUB\FALL-2025-26\C# Project(Final)\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+D:\AIUB\FALL-2025-26\C# Project(Final)\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+D:\AIUB\FALL-2025-26\C# Project(Final)\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+D:\AIUB\FALL-2025-26\C# Project(Final)\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\AIUB\FALL-2025-26\C# Project(Final)\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CopyComplete
+D:\AIUB\FALL-2025-26\C# Project(Final)\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+D:\AIUB\FALL-2025-26\C# Project(Final)\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
